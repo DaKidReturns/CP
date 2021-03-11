@@ -1,2 +1,7 @@
 *.o
 *.out
+input
+op
+output
+exp
+test.cpp

@@ -1,4 +1,4 @@
-# My Competitive Programming Journy
+# My Competitive Programming Journey
 
 Writing this on 11th March 2021 1745 Hours IST.  
 I don't know why you are here, because, unless you are me you won't be able to navigate through the files in this repository, but if

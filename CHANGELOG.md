@@ -1,5 +1,13 @@
 # CHANGE LOG
 
+## 12-03-2021
+1. I may try to do atleast 1 commit per day.
+2. Added Bitmasks and bitmanipultion
+3. Solved some more UVa Problems
+4. More Bitmasks and bitmainpulation
+5. Codeforces 96A solved
+
+
 ## 11-03-2021
 1. Added a Bad ass README.md
 2. Added CHANGELOG.md 

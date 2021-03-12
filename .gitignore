@@ -5,3 +5,5 @@ op
 output
 exp
 test.cpp
+input/*
+test*

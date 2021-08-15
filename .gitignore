@@ -1,9 +1,11 @@
 *.o
 *.out
-input
+input*
 op
-output
+output*
 exp
 test.cpp
 input/*
 test*
+Journal
+*.class

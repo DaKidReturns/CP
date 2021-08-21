@@ -1,5 +1,10 @@
 # CHANGE LOG
 
+## 21-8-2021
+1. Added Code Chef starters9 solutions (only the ones I got during the competition)  
+The Friends in a line works on sample input but fails on some edge case.
+2. Added few more UVa problems too... mostly practice so I didn't update the changelog for a while
+
 ## 12-03-2021
 1. I may try to do atleast 1 commit per day.
 2. Added Bitmasks and bitmanipultion

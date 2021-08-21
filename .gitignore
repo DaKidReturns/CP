@@ -1,4 +1,5 @@
 *.o
+*.c.o
 *.out
 input*
 op
@@ -10,3 +11,4 @@ test*
 Journal
 *.class
 error
+*inp
